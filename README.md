@@ -1,7 +1,7 @@
 
 # Steam Sample Code
 
-This is the sample code to understand "steam bot login" functionality. it also has features for deposit and withdraw steam items. 
+This is the sample code to understand "steam bot login" functionality. It also has features for deposit and withdraw steam items. 
 
 
 ## 🛠 Skills
